@@ -118,3 +118,14 @@ span{
     text-align: center;
     font-weight: 600;
 }
+
+@media only screen and (max-width: 425px) {
+    .container{
+        margin: 0 0 0 -122px;
+    }
+    .navbar{
+        padding: 4px;
+        width: 100%;
+    }
+    
+}
