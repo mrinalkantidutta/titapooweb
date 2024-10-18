@@ -118,6 +118,21 @@ span{
     text-align: center;
     font-weight: 600;
 }
+.dwnl{
+    background-color: #33c26d;
+    padding: 5px 10px 5px 10px;
+    margin: 30px 10px 10px 0;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    border: 1px dotted #33c26d;
+    cursor: pointer;
+    color: #fff;
+}
+.dwnl:hover{
+    color: #33c26d;
+    background-color: #fff;
+}
 
 @media only screen and (max-width: 425px) {
     .container{
